@@ -5,8 +5,8 @@ This code automates the creation and submission of machine learning (ML) tasks f
 ## Code Structure
 
 - `main.py`: Template main Python script that should be executed for multiethnic machine learning schemes.
-- `main.sh`: Template shell script for the job submission to execute main.py file
-- `jobs/`: Create a Directory named "jobs" where generated job scripts and Python scripts will be stored.
+- `main.sh`: Template shell script for the job submission to execute the main.py file
+- `jobs/`: Create a Directory named "jobs" where generated job scripts and Python scripts will be stored for each ML task.
 - `SingleFeatureMLTasks.xlsx`: Excel file containing ML tasks specifications.
 
 ## Requirements
