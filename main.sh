@@ -1,7 +1,5 @@
 #!/bin/bash
 #SBATCH --job-name=BLCA_OS_1YR_BLACK_Protein
-#SBATCH --mail-user=fpreeti@uthsc.edu
-#SBATCH --mail-type=FAIL
 #SBATCH --account=ACF-UTHSC0001
 #SBATCH --partition=campus
 #SBATCH --qos=campus
